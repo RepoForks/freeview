@@ -1,0 +1,5 @@
+<resources>
+    <declare-styleable name="FreeView">
+        <attr name="rotable" format="boolean" />
+    </declare-styleable>
+</resources>
