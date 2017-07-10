@@ -1,6 +1,6 @@
 <h1>How it looks like</h1>
 
-<img src="gif.gif" style="heigh="300px; width="200px""/>
+<img src="https://github.com/Seik/freeview/raw/master/gif.gif" height="420" width="250">
 
 <h1>Usage</h1>
 
